@@ -5,7 +5,8 @@ author: Florian L.
 day: 16
 month: Feb
 tags:
-  - Sanierung
+  - post
+  - featured
 image: /assets/blog/handwerkerkosten-bei-der-badsanierung-welcher-stundensatz-in-wien-2026-realistisch-ist.jpg
 imageAlt: Handwerker kosten
 ---
