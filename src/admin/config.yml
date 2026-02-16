@@ -17,7 +17,7 @@ collections:
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Day", name: "day", widget: "number" }
       - { label: "Month", name: "month", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["Sanierung"] }
+      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Featured Image", name: "image", widget: "image" } # Changed 'init' to 'image'
       - { label: "Image Caption", name: "imageAlt", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
