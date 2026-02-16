@@ -1,7 +1,8 @@
 ---
 title: Was kostet ein neues Bad inklusive Fliesen und Sanitärobjekte
 author: Florian L.
-date: 2025-02-15
+month: Feb
+day: 16
 tags: ["post", "featured"]
 image: /assets/blog/was-kostet-ein-neues-bad-inklusive-fliesen-und-sanitaerobjekte-der-ehrliche-preischeck-fuer-oesterreich-2026.jpg
 imageAlt: Was kostet ein neues Bad inklusive Fliesen und Sanitärobjekte Der ehrliche Preischeck für Österreich 2026
