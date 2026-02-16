@@ -1,0 +1,37 @@
+---
+title: Blog
+layout: 'base.njk'
+---
+       
+
+				<section class="page-header page-header-modern bg-color-grey page-header-md">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12 align-self-center p-static order-2 text-center">
+								<h1 class="text-dark font-weight-bold text-8">Blog Seite</h1>
+								<span class="sub-title text-dark">Lesen Sie durch aktuellen Nachrichten für das Thema Bad Planen</span>
+							</div>
+							<div class="col-md-12 align-self-center order-1">
+								<ul class="breadcrumb d-block text-center">
+									<li><a href="index.html">Startseite</a></li>
+									<li class="active">Blog</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
+
+				<div class="container py-4">
+    <!-- The ROW stays OUTSIDE the loop -->
+    <div class="row">
+        
+        {% for post in collections.post | reverse %}
+            
+            {% include 'article-snippet.njk' %}
+
+        {%- endfor %}
+
+    </div> <!-- End of Row -->
+</div>
+
+			
